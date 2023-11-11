@@ -1,0 +1,101 @@
+body{
+    margin: 0px;
+    background-color:rgb(247, 216, 244);
+}
+main{
+    
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+}
+h1{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(309, 93%, 17%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    
+    
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    margin-left: 50%;
+    
+}
+.navbar a:hover{
+    background-color: hsl(254, 54%, 85%);
+    width: 90%;
+}
+.navbar li{
+    float: left;
+    margin-left: 15%;
+    }
+
+
+    .boxes{
+        margin-left: 0%;
+        display: flex;
+        font-family:  'PT Sans Narrow', sans-serif;
+        font-size: x-large;
+         
+    }
+
+
+    .box1{
+        
+        margin: 10px;
+        height: 200px;
+        width: 300px;
+        margin-left: 20%;
+    }
+    
+    .box2{
+       
+        margin: 10px;
+        height: 200px;
+        width: 300px;
+        
+    }
+    
+    .box3{
+        
+        margin: 10px;
+        height: 200px;
+        width: 300px;
+    }
+    
+    
+    
+    .box1 img{ width: 65%;
+               height: 40%
+               margin-right;: 100%
+             }
+    
+    .box2 img{ width: 65%;
+               height: 40%
+               margin-right;: 100%
+                     }
+    
+    .box3 img{ width: 65%;
+        height: 20%
+        margin-right;: 100%
+        
+     }
+
+     
+     footer{
+        margin-top: 20%;
+        text-align: center;
+        background-color: black;
+        color: white;
+        height: 150px;
+     }
